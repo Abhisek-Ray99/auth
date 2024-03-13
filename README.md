@@ -31,10 +31,10 @@ This project is a mobile application developed using Expo, designed to [briefly 
 ![Screenshot 1](https://github.com/Abhisek-Ray99/auth/blob/master/assets/Screenshot_2024-03-14-02-17-59-253_com.abhisek99.myapp.jpg)
 *Caption for Screenshot 1*
 
-![Screenshot 2]([screenshots/screenshot2.png](https://github.com/Abhisek-Ray99/auth/blob/master/assets/Screenshot_2024-03-14-02-18-02-035_com.abhisek99.myapp.jpg))
+![Screenshot 2](https://github.com/Abhisek-Ray99/auth/blob/master/assets/Screenshot_2024-03-14-02-18-02-035_com.abhisek99.myapp.jpg))
 *Caption for Screenshot 2*
 
-![Screenshot 3]([screenshots/screenshot2.png](https://github.com/Abhisek-Ray99/auth/blob/master/assets/Screenshot_2024-03-14-02-18-02-035_com.abhisek99.myapp.jpg))
+![Screenshot 3](https://github.com/Abhisek-Ray99/auth/blob/master/assets/Screenshot_2024-03-14-02-18-05-366_com.abhisek99.myapp.jpg))
 *Caption for Screenshot 3*
 
 ## Features
