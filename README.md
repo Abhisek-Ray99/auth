@@ -38,9 +38,9 @@ This project is a mobile application developed using Expo, designed to [briefly 
 *Caption for Screenshot 3*
 
 ## Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- [Onboarding]
+- [Signup / Create Account]
+- [Login]
   .
   .
   .
